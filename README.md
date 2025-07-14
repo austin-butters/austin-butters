@@ -27,7 +27,8 @@ I’m a full-stack developer focused on building web applications and tools that
 <img src="https://github.com/user-attachments/assets/b387328c-4e40-482a-ba8f-1c5e8d3c0fa7" alt="CSS ICON" width="40" height="40" />
 <!--<img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="SASS ICON" width="40" height="40" />-->
 <!--<img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="TAILWIND CSS ICON" width="40" height="40" />-->
-<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JS ICON" width="40" height="40" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/038ecf17-e018-4a5c-a769-740013f09cb2" />
+
 <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TS ICON" width="40" height="40" />
 <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="REACT ICON" width="40" height="40" />
 <img src="https://github.com/user-attachments/assets/a3e40bf1-82d5-4907-b3bd-10d2eb4b00f5" alt="REACT QUERY ICON" width="40" height="40" />
@@ -35,6 +36,10 @@ I’m a full-stack developer focused on building web applications and tools that
 <!--<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="NEXT ICON" width="40" height="40" />-->
 <!--<img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="JEST ICON" width="40" height="40" />-->
 <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="NODE ICON" width="40" height="40" />
+<img src="https://github.com/user-attachments/assets/75363b73-8725-4967-adac-e53596d86fdf" alt="EXPRESS.JS ICON" width="40" height="40"/>
+<img src="https://github.com/user-attachments/assets/6682d579-1ff1-408c-a784-cdec4262b79d" alt="KNEX.JS ICON" width="40" height="40"/>
+
+
 <!--<img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST API ICON" width="40" height="40" />-->
 <!--<img src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GRAPHQL ICON" width="40" height="40" />-->
 <!--<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLITE ICON" width="40" height="40" />-->
