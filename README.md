@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 I’m a full-stack developer focused on building web applications and tools that prioritize utility and solve real human problems. I love creating complex systems from single moving parts.
 
 ## Technologies used
+<p align="left">
 <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="GIT ICON" width="40" height="40" />
 <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GITHUB ICON" width="40" height="40" />
 <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML ICON" width="40" height="40" />
@@ -40,7 +41,7 @@ I’m a full-stack developer focused on building web applications and tools that
 <!--<img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C# ICON" width="40" height="40" />-->
 <!--<img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET ICON" width="40" height="40" />-->
 <!--<img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS ICON" width="40" height="40" />-->
-
+</p>
 
 I studied at an intensive 17-week bootcamp totalling 900 hours at DevAcademy, where I learnt to build full-stack web applications using technologies such as React, Node.js and TypeScript. I'm especially interested in building clean, efficient systems that are maintainable and scalable for future devs/teams.
 
