@@ -1,18 +1,3 @@
-<!--
-**austin-butters/austin-butters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi there 👋, I'm Austin
 
 I’m a full-stack developer based in Wellington, New Zealand, focused on building web applications and tools that prioritize utility and solve real human problems. I love creating complex systems from single moving parts.
@@ -45,7 +30,11 @@ LinkedIn: [austinbutters](https://linkedin.com/in/austinbutters)
 
 </p>
 
-## 🔭 I'm Currently Working On:
+## 🌱 I’m currently learning
+
+A bit of everything! But moving ahead my main focus are raw SQL, AWS, and starting to learn low-level languages like C.
+
+## 🔭 I'm Currently Working On
 
 ### POCKETPa.
 
@@ -53,7 +42,10 @@ You can find POCKETPa. at [https://pocketpa.film](https://pocketpa.film).
 
 POCKETPa. is an in-development app that combines my passion for tech and film. It aims to provide convenient, useful tools for low/now-budget student filmmakers, substituting some of the tasks a paid Production Assistant (PA) would have on a professional film production. This has been a great experience and has reinforced my skills in the stack taught at DevAcademy. The Front-end uses React and React Query, while the Back-end uses an Express.js server and Knex.js database queries/schemas.
 
+## 🗂️ Previous Projects
 
-
+### SkillSwap
+### Butterfly News
+### Others
 
 
