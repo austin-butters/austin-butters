@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I’m a full-stack developer focused on building web applications and tools that prioritize utility and solve real human problems. I love creating complex systems from single moving parts.
 
 ## 📫 Connect With Me:
-<a href="https://github.com/austin-butters" style="text-decoration: underline; color: inherit;">
+<a href="https://github.com/austin-butters" style="text-decoration: underline; color: inherit; display: inline-flex; align-items: center; gap: 6px;">
   <img src="https://github.com/user-attachments/assets/2a273356-62b8-4998-bb93-bc7a3d6c9eb4" alt="GitHub" style="height: 20px; vertical-align: middle;" />
   <span style="margin-left: 5px;">GitHub: austin-butters</span>
 </a>
