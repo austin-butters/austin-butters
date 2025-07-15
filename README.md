@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I’m a full-stack developer based in Wellington, New Zealand, focused on building web applications and tools that prioritize utility and solve real human problems. I love creating complex systems from single moving parts.
 
 ## 📫 Connect With Me:
-[GitHub: austin-butters](https://github.com/austin-butters)
+[GitHub: austin-butters](https://github.com/austin-butters)  
 [LinkedIn: austinbutters](https://linkedin.com/in/austinbutters)
 
 ## 💻 Technologies used
