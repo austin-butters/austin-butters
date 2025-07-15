@@ -96,7 +96,7 @@ POCKETPa. is an in-development app that combines my passion for tech and film. I
 ## 🗂️ Previous Projects
 
 ### SkillSwap
-
+In the fifteenth week of DevAcademy we'd learnt to use technologies across the full stack, and we were given a full week to make our final project. I worked in a group of four to create 'SkillSwap', a beginner-friedly code forum with questions, answers, profiles, messaging and video calls. We aimed to create the best user experience for our target users, prioritising simplicity and intuitive use over completeness. We weren't creating a thorough library of coding knowledge, we were creating a place to introduce new people to code.
 
 ### Butterfly News
 Ten weeks into DevAcademy the cohort was learning how to make use of external APIs with HTTP requests and server proxy routes. For this week's group project, I led a group of five students to make 'Butterfly News', a time-traveling news website. We made use of the [New York Times API](https://developer.nytimes.com/apis) to get news stories from any date the user 'traveled to' and display them to the user. We also allowed the user to input a way they would change the past. Following this we'd 'return them to the present', calling Google's [Gemini API](https://ai.google.dev/) to make up a funny story about how the Butterfly Effect would had changed the present, displaying this as it's own news story among real stories The New York Times had published in the past week.
