@@ -23,7 +23,6 @@ I studied at an intensive 17-week bootcamp totalling 900 hours at DevAcademy, wh
 
 Outside of programming I'm a movie-lover and maker. I think there’s nothing more satisfying than turning an idea into an experience.
 
-
 ## 📫 Connect With Me
 
 GitHub: [austin-butters](https://github.com/austin-butters)  
@@ -47,7 +46,12 @@ LinkedIn: [austinbutters](https://linkedin.com/in/austinbutters)
 </p>
 
 ## 🔭 I'm Currently Working On:
-[POCKETPa.](https://pocketpa.film)
+
+### POCKETPa.
+
+You can find POCKETPa. at [https://pocketpa.film](https://pocketpa.film).
+
+POCKETPa. is an in-development app that combines my passion for tech and film. It aims to provide convenient, useful tools for low/now-budget student filmmakers, substituting some of the tasks a paid Production Assistant (PA) would have on a professional film production. This has been a great experience and has reinforced my skills in the stack taught at DevAcademy. The Front-end uses React and React Query, while the Back-end uses an Express.js server and Knex.js database queries/schemas.
 
 
 
