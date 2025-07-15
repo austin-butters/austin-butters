@@ -96,7 +96,11 @@ POCKETPa. is an in-development app that combines my passion for tech and film. I
 ## 🗂️ Previous Projects
 
 ### SkillSwap
+
+
 ### Butterfly News
+Ten weeks into DevAcademy the cohort was learning how to make use of external APIs with HTTP requests and server proxy routes. For this week's group project, I led a group of five students to make 'Butterfly News', a time-traveling news website. We made use of the [New York Times API](https://developer.nytimes.com/apis) to get news stories from any date the user 'traveled to' and display them to the user. We also allowed the user to input a way they would change the past. Following this we'd 'return them to the present', calling Google's [Gemini API](https://ai.google.dev/) to make up a funny story about how the Butterfly Effect would had changed the present, displaying this as it's own news story among real stories The New York Times had published in the past week.
+
 ### JS Calculator
 
 Six weeks into DevAcademy I tried my hand at making a JavaScript scientific calculator, this project was never finished, and I managed to make a mess of my code but it's safe to say since this point I've focused on learning clean, maintainable coding practices. This project involved creating a syntax parser, recursive evaluation of brackets inside expressions, managing input validadation, inserting implicit multiplication operators, and many more things. My skills have improved hugely since here, but it's interesting to look back at.
