@@ -17,11 +17,16 @@ Here are some ideas to get you started:
 
 I’m a full-stack developer focused on building web applications and tools that prioritize utility and solve real human problems. I love creating complex systems from single moving parts.
 
+## 📫 Connect With Me:
+<p align="left">
+<img width="40" height="40" alt="GitHub" src="https://github.com/user-attachments/assets/2a273356-62b8-4998-bb93-bc7a3d6c9eb4" />
+</p>
+
 ## 💻 Technologies used
 <p align="left">
 
 <img width="40" height="40" alt="Git" src="https://github.com/user-attachments/assets/0cd44e7c-fe23-4bd0-90fe-9dcad502a3e8" />
-<img width="40" height="40" alt="GitHub" src="https://github.com/user-attachments/assets/148826e7-3904-4215-b377-2c9c5762c6ef" />
+<img width="40" height="40" alt="GitHub" src="https://github.com/user-attachments/assets/2a273356-62b8-4998-bb93-bc7a3d6c9eb4" />
 <img width="40" height="40" alt="HTML5" src="https://github.com/user-attachments/assets/77bc961d-1801-4b5e-82ca-ad83c8ad30f0" />
 <img width="40" height="40" alt="CSS" src="https://github.com/user-attachments/assets/a7e0e787-ba89-4ab3-bb5f-7c8a8de0e13a" />
 <img width="40" height="40" alt="JavaScript" src="https://github.com/user-attachments/assets/09d6c127-39f0-476d-98da-4f8eba20659d" />
