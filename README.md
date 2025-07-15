@@ -98,7 +98,7 @@ POCKETPa. is an in-development app that combines my passion for tech and film. I
 ### SkillSwap
 ### Butterfly News
 ### JS Calculator
-Six weeks into DevAcademy I tried my hand at making a JavaScript calculator
+Six weeks into DevAcademy I tried my hand at making a JavaScript scientific calculator, this project was never finished, and I managed to make a mess of my code but it's safe to say since this point I've focused on learning clean, maintainable coding practices. My JS-Calculator repository can be found [here](https://github.com/austin-butters/JS-Calculator)
 
 ### Others
 
