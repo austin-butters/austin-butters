@@ -17,7 +17,15 @@ Here are some ideas to get you started:
 
 I’m a full-stack developer based in Wellington, New Zealand, focused on building web applications and tools that prioritize utility and solve real human problems. I love creating complex systems from single moving parts.
 
-## 📫 Connect With Me:
+## ⭐ About Me
+
+I studied at an intensive 17-week bootcamp totalling 900 hours at DevAcademy, where I learnt to build full-stack web applications using technologies such as React, Node.js and TypeScript. I'm especially interested in building clean, efficient systems that are maintainable and scalable for future devs/teams.
+
+Outside of programming I'm a movie-lover and maker. I think there’s nothing more satisfying than turning an idea into an experience.
+
+
+## 📫 Connect With Me
+
 GitHub: [austin-butters](https://github.com/austin-butters)  
 LinkedIn: [austinbutters](https://linkedin.com/in/austinbutters)
 
@@ -37,10 +45,6 @@ LinkedIn: [austinbutters](https://linkedin.com/in/austinbutters)
 <img width="40" height="40" alt="Knex.js" src="https://github.com/user-attachments/assets/31a1dadd-117e-41ff-aa59-6439227b8b3c" />
 
 </p>
-
-I studied at an intensive 17-week bootcamp totalling 900 hours at DevAcademy, where I learnt to build full-stack web applications using technologies such as React, Node.js and TypeScript. I'm especially interested in building clean, efficient systems that are maintainable and scalable for future devs/teams.
-
-Outside of programming I'm a movie-lover and maker. I think there’s nothing more satisfying than turning an idea into an experience.
 
 ## 🔭 I'm Currently Working On:
 [POCKETPa.](https://pocketpa.film)
