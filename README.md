@@ -37,6 +37,8 @@ A bit of everything! But moving ahead my main focus are raw SQL, AWS, and starti
 ## 🔭 I'm Currently Working On
 
 ### POCKETPa.
+<img width="994" height="241" alt="POCKETPa." src="https://github.com/user-attachments/assets/a2afffc5-0735-4777-b700-b4c082a8d308" />
+
 
 You can find POCKETPa. at [https://pocketpa.film](https://pocketpa.film).
 
