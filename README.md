@@ -38,12 +38,21 @@ LinkedIn: [austinbutters](https://linkedin.com/in/austinbutters)
         <img width="40" height="40" alt="CSS" src="https://github.com/user-attachments/assets/a7e0e787-ba89-4ab3-bb5f-7c8a8de0e13a" />
       </a>
     </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img width="40" height="40" alt="JavaScript" src="https://github.com/user-attachments/assets/09d6c127-39f0-476d-98da-4f8eba20659d" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.typescriptlang.org/docs/">
+        <img width="40" height="40" alt="TypeScript" src="https://github.com/user-attachments/assets/c2e52aa1-b064-405b-a8a2-50da78d37e81" />
+      </a>
+    </td>
   </tr>
 </table>
 
 
-<img width="40" height="40" alt="JavaScript" src="https://github.com/user-attachments/assets/09d6c127-39f0-476d-98da-4f8eba20659d" />
-<img width="40" height="40" alt="TypeScript" src="https://github.com/user-attachments/assets/c2e52aa1-b064-405b-a8a2-50da78d37e81" />
+
 <img width="40" height="40" alt="React.js" src="https://github.com/user-attachments/assets/c4694cfd-b705-4a1b-8ba6-99324fa4b98e" />
 <img width="40" height="40" alt="TanStack React Query" src="https://github.com/user-attachments/assets/64db1689-08a9-4a4c-bbce-0621f130029a" />
 <img width="40" height="40" alt="Node.js" src="https://github.com/user-attachments/assets/740a1613-059f-436a-87dd-faaf5be1a5d1" />
