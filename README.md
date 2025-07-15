@@ -40,7 +40,7 @@ A bit of everything! But moving ahead my main focus are raw SQL, AWS, and starti
 
 You can find POCKETPa. at [https://pocketpa.film](https://pocketpa.film).
 
-POCKETPa. is an in-development app that combines my passion for tech and film. It aims to provide convenient, useful tools for low/now-budget student filmmakers, substituting some of the tasks a paid Production Assistant (PA) would have on a professional film production. This has been a great experience and has reinforced my skills in the stack taught at DevAcademy. The Front-end uses React and React Query, while the Back-end uses an Express.js server and Knex.js database queries/schemas.
+POCKETPa. is an in-development app that combines my passion for tech and film. It aims to provide convenient, useful tools for low/no-budget student filmmakers, substituting some of the tasks a paid Production Assistant (PA) would have on a professional film production. This has been a great experience and has reinforced my skills in the stack taught at DevAcademy. The Front-end uses React and React Query, while the Back-end uses an Express.js server and Knex.js database queries/schemas.
 
 ## 🗂️ Previous Projects
 
