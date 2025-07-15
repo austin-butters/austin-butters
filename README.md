@@ -19,7 +19,7 @@ LinkedIn: [austinbutters](https://linkedin.com/in/austinbutters)
 <table>
   <tr>
     <td align="center">
-      <a href="https://git-scm.com/">
+      <a href="https://git-scm.com/" target="_blank">
         <img width="40" height="40" alt="Git" src="https://github.com/user-attachments/assets/0cd44e7c-fe23-4bd0-90fe-9dcad502a3e8" />
       </a>
     </td>
