@@ -54,7 +54,7 @@ LinkedIn: [austinbutters](https://linkedin.com/in/austinbutters)
 
 ## 🌱 I’m currently learning
 
-A bit of everything! But moving ahead my main new focuses are raw SQL, AWS, and starting to learn low-level languages like C.
+A bit of everything! But moving ahead my main new focuses are raw SQL, AWS, .NET, and starting to learn low-level languages like C.
 
 ## 🔭 I'm Currently Working On
 
