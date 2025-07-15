@@ -106,3 +106,7 @@ Ten weeks into DevAcademy the cohort was learning how to make use of external AP
 Six weeks into DevAcademy I tried my hand at making a JavaScript scientific calculator, this project was never finished, and I managed to make a mess of my code but it's safe to say since this point I've focused on learning clean, maintainable coding practices. This project involved creating a syntax parser, recursive evaluation of brackets inside expressions, managing input validadation, inserting implicit multiplication operators, and many more things. My skills have improved hugely since here, but it's interesting to look back at.
 
 My JS-Calculator repository can be found [here](https://github.com/austin-butters/JS-Calculator)
+
+### Foundations Blog
+In the first few weeks of DevAcademy I made a static site using only HTML and CSS for my 'Foundations Blog'. I used media queries to make the site responsive to different screen sizes.
+The repository can be found at [https://github.com/austin-butters/austin-butters.github.io](https://github.com/austin-butters/austin-butters.github.io). The live site can be found at [https://austin-butters.github.io/](https://austin-butters.github.io/)
