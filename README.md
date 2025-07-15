@@ -13,7 +13,7 @@ Outside of programming I'm a movie-lover and maker. I think there’s nothing mo
 GitHub: [austin-butters](https://github.com/austin-butters) (No need to click, congratulations, you've already made it here!)  
 LinkedIn: [austinbutters](https://linkedin.com/in/austinbutters)
 
-## 🌐 Technologies used
+## 🌐 Technologies Used
 
 <table>
   <tr>
@@ -75,7 +75,7 @@ LinkedIn: [austinbutters](https://linkedin.com/in/austinbutters)
   </tr>
 </table>
 
-## 🌱 I’m currently learning
+## 🌱 I’m Currently Learning
 
 A bit of everything! But moving ahead my main new focuses are raw SQL, AWS, .NET, and starting to learn low-level languages like C.
 
