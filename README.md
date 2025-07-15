@@ -8,12 +8,12 @@ I studied at an intensive 17-week bootcamp totalling 900 hours at DevAcademy, wh
 
 Outside of programming I'm a movie-lover and maker. I think there’s nothing more satisfying than turning an idea into an experience.
 
-## 📫 Connect With Me
+## 💬 Connect With Me
 
 GitHub: [austin-butters](https://github.com/austin-butters) (No need to click, congratulations, you've already made it here!)  
 LinkedIn: [austinbutters](https://linkedin.com/in/austinbutters)
 
-## 💻 Technologies used
+## 🌐 Technologies used
 
 <table>
   <tr>
