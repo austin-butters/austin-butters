@@ -20,6 +20,7 @@ I’m a full-stack developer focused on building web applications and tools that
 ## 📫 Connect With Me:
 <p align="left">
 <img width="40" height="40" alt="GitHub" src="https://github.com/user-attachments/assets/2a273356-62b8-4998-bb93-bc7a3d6c9eb4" />
+  [!GitHub](https://github.com.austin-butters)
 </p>
 
 ## 💻 Technologies used
