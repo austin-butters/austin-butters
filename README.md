@@ -16,18 +16,31 @@ LinkedIn: [austinbutters](https://linkedin.com/in/austinbutters)
 ## 💻 Technologies used
 <p align="left">
 
-<a href="https://git-scm.com/">
-  <img width="40" height="40" alt="Git" src="https://github.com/user-attachments/assets/0cd44e7c-fe23-4bd0-90fe-9dcad502a3e8" />
-</a>
-<a href="https://github.com/austin-butters">
-  <img width="40" height="40" alt="GitHub" src="https://github.com/user-attachments/assets/2a273356-62b8-4998-bb93-bc7a3d6c9eb4" />
-</a>  
-<a href="https://html.spec.whatwg.org">
-  <img width="40" height="40" alt="HTML5" src="https://github.com/user-attachments/assets/77bc961d-1801-4b5e-82ca-ad83c8ad30f0" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img width="40" height="40" alt="CSS" src="https://github.com/user-attachments/assets/a7e0e787-ba89-4ab3-bb5f-7c8a8de0e13a" />
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://git-scm.com/">
+        <img width="40" height="40" alt="Git" src="https://github.com/user-attachments/assets/0cd44e7c-fe23-4bd0-90fe-9dcad502a3e8" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/austin-butters">
+        <img width="40" height="40" alt="GitHub" src="https://github.com/user-attachments/assets/2a273356-62b8-4998-bb93-bc7a3d6c9eb4" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://html.spec.whatwg.org">
+        <img width="40" height="40" alt="HTML5" src="https://github.com/user-attachments/assets/77bc961d-1801-4b5e-82ca-ad83c8ad30f0" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img width="40" height="40" alt="CSS" src="https://github.com/user-attachments/assets/a7e0e787-ba89-4ab3-bb5f-7c8a8de0e13a" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <img width="40" height="40" alt="JavaScript" src="https://github.com/user-attachments/assets/09d6c127-39f0-476d-98da-4f8eba20659d" />
 <img width="40" height="40" alt="TypeScript" src="https://github.com/user-attachments/assets/c2e52aa1-b064-405b-a8a2-50da78d37e81" />
