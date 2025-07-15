@@ -10,7 +10,7 @@ Outside of programming I'm a movie-lover and maker. I think there’s nothing mo
 
 ## 📫 Connect With Me
 
-GitHub: [austin-butters](https://github.com/austin-butters) (No need to click, congratulations, you've already made it here!)
+GitHub: [austin-butters](https://github.com/austin-butters) (No need to click, congratulations, you've already made it here!)  
 LinkedIn: [austinbutters](https://linkedin.com/in/austinbutters)
 
 ## 💻 Technologies used
