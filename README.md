@@ -14,12 +14,11 @@ GitHub: [austin-butters](https://github.com/austin-butters)
 LinkedIn: [austinbutters](https://linkedin.com/in/austinbutters)
 
 ## 💻 Technologies used
-<p align="left">
 
 <table>
   <tr>
     <td align="center">
-      <a href="https://git-scm.com/" target="_blank">
+      <a href="https://git-scm.com/">
         <img width="40" height="40" alt="Git" src="https://github.com/user-attachments/assets/0cd44e7c-fe23-4bd0-90fe-9dcad502a3e8" />
       </a>
     </td>
@@ -48,18 +47,33 @@ LinkedIn: [austinbutters](https://linkedin.com/in/austinbutters)
         <img width="40" height="40" alt="TypeScript" src="https://github.com/user-attachments/assets/c2e52aa1-b064-405b-a8a2-50da78d37e81" />
       </a>
     </td>
+    <td align="center">
+      <a href="https://react.dev/">
+        <img width="40" height="40" alt="React.js" src="https://github.com/user-attachments/assets/c4694cfd-b705-4a1b-8ba6-99324fa4b98e" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://tanstack.com/query/v5/docs/framework/react/overview">
+        <img width="40" height="40" alt="TanStack React Query" src="https://github.com/user-attachments/assets/64db1689-08a9-4a4c-bbce-0621f130029a" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nodejs.org/en">
+        <img width="40" height="40" alt="Node.js" src="https://github.com/user-attachments/assets/740a1613-059f-436a-87dd-faaf5be1a5d1" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://expressjs.com/">
+        <img width="40" height="40" alt="Express.js" src="https://github.com/user-attachments/assets/911a5bb8-e432-412c-b993-0fc506eabe1c" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://knexjs.org/">
+        <img width="40" height="40" alt="Knex.js" src="https://github.com/user-attachments/assets/31a1dadd-117e-41ff-aa59-6439227b8b3c" />
+      </a>
+    </td>
   </tr>
 </table>
-
-
-
-<img width="40" height="40" alt="React.js" src="https://github.com/user-attachments/assets/c4694cfd-b705-4a1b-8ba6-99324fa4b98e" />
-<img width="40" height="40" alt="TanStack React Query" src="https://github.com/user-attachments/assets/64db1689-08a9-4a4c-bbce-0621f130029a" />
-<img width="40" height="40" alt="Node.js" src="https://github.com/user-attachments/assets/740a1613-059f-436a-87dd-faaf5be1a5d1" />
-<img width="40" height="40" alt="Express.js" src="https://github.com/user-attachments/assets/911a5bb8-e432-412c-b993-0fc506eabe1c" />
-<img width="40" height="40" alt="Knex.js" src="https://github.com/user-attachments/assets/31a1dadd-117e-41ff-aa59-6439227b8b3c" />
-
-</p>
 
 ## 🌱 I’m currently learning
 
