@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I’m a full-stack developer focused on building web applications and tools that prioritize utility and solve real human problems. I love creating complex systems from single moving parts.
 
-## Technologies used
+## 💻 Technologies used
 <p align="left">
 
 <img width="40" height="40" alt="Git" src="https://github.com/user-attachments/assets/0cd44e7c-fe23-4bd0-90fe-9dcad502a3e8" />
@@ -37,4 +37,11 @@ I’m a full-stack developer focused on building web applications and tools that
 I studied at an intensive 17-week bootcamp totalling 900 hours at DevAcademy, where I learnt to build full-stack web applications using technologies such as React, Node.js and TypeScript. I'm especially interested in building clean, efficient systems that are maintainable and scalable for future devs/teams.
 
 Outside of programming I'm a movie-lover and maker. I think there’s nothing more satisfying than turning an idea into an experience.
+
+## 🔭 I'm Currently Working On:
+[POCKETPa.](https://pocketpa.film)
+
+
+
+
 
