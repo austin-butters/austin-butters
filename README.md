@@ -4,7 +4,8 @@ I’m a full-stack developer based in Wellington, New Zealand, focused on buildi
 
 ## ⭐ About Me
 
-I studied at an intensive 17-week bootcamp totalling 900 hours at DevAcademy, where I learnt to build full-stack web applications using technologies such as React, Node.js and TypeScript. I'm especially interested in building clean, efficient systems that are maintainable and scalable for future devs/teams.
+I studied at an intensive 17-week bootcamp totalling 900 hours at [DevAcademy Aotearoa](https://devacademy.co.nz), where I learnt to build full-stack web applications using technologies such as React, Node.js and TypeScript. I'm especially interested in building clean, efficient systems that are maintainable and scalable for future devs/teams. DevAcademy was an intensive, hands-on experience that replicates a working environment. It not only taught coding, but skills like pair-programming, teamwork, agile methodologies, project managent, and much more.
+
 
 Outside of programming I'm a movie-lover and maker. I think there’s nothing more satisfying than turning an idea into an experience.
 
